@@ -1,1 +1,1 @@
-# practice-notes-of-cs50-in-2022
+# practice-notes-of-cs50-in-2023
